@@ -1,0 +1,10 @@
+opencv-python
+openai
+SpeechRecognition
+pytesseract
+pyttsx3
+PyMuPDF
+requests
+streamlit
+keyboard
+Pillow
